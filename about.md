@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I have previously worked at Microsoft as an SDET and Sofware Engineer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy reading voraciously, video games, and home-cooked meals.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nancywu.career@outlook.com](mailto:nancywu.career@outlook.com)
